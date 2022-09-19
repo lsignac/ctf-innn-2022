@@ -1,0 +1,18 @@
+path = '/content/sample_data/tracker.txt' # Chemin du fichier 'tracker'
+f = open(path, 'r')
+
+c = 0
+for line in f.read().split('\n'):
+    if not line == '':
+      lat = line.split(',')[2]
+      longi = line.split(',')[4]
+      if not lat == '3' and not lat == 'A': # Exclure les lignes qui n'ont pas de coordonnées
+        lat = float(lat)
+        lat = lat // 100 + (lat%100)/60
+        longi = float(longi)
+        longi = longi // 100 + (longi%100)/60
+        if line.split(',')[3] == 'S': # Faire attention si sud ou nord
+          lat = -lat
+        if line.split(',')[5] == 'W': # Faire attention si est ou ouest
+          longi = -longi
+        print(lat, longi)
