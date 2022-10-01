@@ -30,13 +30,13 @@ Reverse:
 
 Web:
 - [Bienvenue !](Bienvenue/README.md)
-- Web Padawan
+- [Web Padawan](Web_Padawan/README.md)
 - DevOups
 - [Flasque](Flasque/Flasque.md)
 - [Jeton Doré](Jeton_Doré/Jeton%20Doré.md)
 
 Réseau:
-- Magnifique Domaine
+- [Magnifique Domaine](Magnifique_Domaine/README.md)
 - Cours Forest, Cours !
 - [Ne Quittez pas !](Ne_quittez_Pas/README.md)
 - Essaie Encore
