@@ -20,7 +20,7 @@ enregistreur dans lequel un texte (pas très clair) est enregistré.
 ![](qrcodeabime.jpg)
 
 Il semblerait qu'il existe des softs de reconstruction.... mais on n'en a pas trouvé. 
-<!-- https://merricx.github.io/qrazybox/ ne fait pas le job tout seul -->
+
 Un nettoyage permet de : rajouter du blanc autour des marqueres de position dans les coins et du marqueur d'alignement central.
 Pour les autres... on peut dans certain cas reconstituer le carré blanc entier lorsqu'on en voit qu'une partie.
 
@@ -34,6 +34,10 @@ Une fois nettoyé, il indique :
 `WIFI:S:384e68cbddd9951078d88935723e87e1;T:WPA;P:iNnN_2022_@1;;`
 Il y a bien un réseau Wifi avec le SSID `384e68cbddd9951078d88935723e87e1` et le pass indiqué.
 
+A posteriori, <https://merricx.github.io/qrazybox/> fait une partie du job. Il faut faire pas mal de retouche, mais on retrouve 
+bien les infos : 
+
+![](qrazybox.png)
 
 L'écoute du [message audio](audio.wav) donne une série de mots utilisant [l'alphabet phonétique de l'OTAN](https://fr.wikipedia.org/wiki/Alphabet_phon%C3%A9tique_de_l%27OTAN).
 On reconnaît (pas facilement) tous les mots, sauf DOT. On laisse un point : `THFLS.KMRR`
