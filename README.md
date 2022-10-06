@@ -1,6 +1,7 @@
 # ctf-innn-2022
 
-[Solution de la finale](Finale/README.md)
+Escape Game (finale):
+- [RiskBox](Finale/README.md)
 
 Épreuves du CTF qualificatif :
 
@@ -47,5 +48,5 @@ Réseau:
 
 OSINT:
 - [Le pompom](Le_pompom/README.md)
-- Le pompom II
+- [Le pompom II](Le%20Pompom%20_II/Le%20Pompom%20II.md)
 - [Super Stalker](Super_Stalker/Super%20Stalker.md)

@@ -1,3 +1,16 @@
+# RiskBox
+
+En fouillant le salon du INNN, nos équipes d'intervention ont saisie 3 RiskBox.
+
+Ces équipements semblent controler les propagateurs de vulnérabilité du Dr RiSK. Elles indiquent un décompte sur un petit écran.
+
+Vous devez trouver un moyen pour les désactiver pour stopper la menace. Le temps est compté !
+
+Un document de l'équipe terrain de l'agence a été laissé à votre intention ainsi qu'un coffre sécurisé.
+Vous devez vous munir d'un téléphone avec les fonctions Bluetooth et NFC ainsi que d'un ordinateur portable. 
+
+## Résolution
+
 Objets à disposition : une lampe sans pile, une boîte fermée à code, un QR code, 
 deux série de symboles (genre de tirets).
 
