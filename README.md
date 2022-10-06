@@ -18,7 +18,7 @@ Stégano:
 - [Nouvelle génération](Nouvelle_Generation/README.md)
 
 Forensic:
-- Qui est Qui ?
+- [Qui est Qui ?](Qui_est_Qui/Qui%20est%20Qui.md)
 - Massive Attack
 - Just SIEM
 - [Polypocket](Polypocket/Polypocket.md)
@@ -30,7 +30,7 @@ Divers:
 Reverse:
 - [Le pied marin](Pied_Marin/README.md)
 - [Interdit aux humains](Interdit_aux_humains/README.md)
-- edoCel
+- edoCeL
 - All your base are belong to us
 
 Web:
