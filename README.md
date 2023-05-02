@@ -1,5 +1,7 @@
 # ctf-innn-2022
 
+**DÉPLACÉ CHEZ L'AMI GITLAB : <https://gitlab.com/cupteam/ctf-innn-2022>**
+
 Escape Game (finale):
 - [RiskBox](Finale/README.md)
 
